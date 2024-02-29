@@ -62,5 +62,10 @@
   {
     "id": "cosmo",
     "endpoint": "https://namadarpc.songfi.xyz"
-  }
+  },
+  {
+    "id": "bnoptre",
+    "endpoint": "https://namadarpc.bnoptre.online"
+  },
+  
 ]
